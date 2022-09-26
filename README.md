@@ -1,6 +1,6 @@
 ## To-Do List
 
-Link:
+Link: https://a3meganletendre7.glitch.me/
 
 My To-Do List app allows a user to log the tasks they need to complete. The user is able to add, modify, and delete tasks. All data is stored on MongDB, however I was unable to get authentication working. For this project, I am using Express, MongoDB, Node.js, Bootstrap CSS Template, and Express Middleware. The Middlware used is as follows:
 - **ejs**: allows for simple rendering of server side for this application
@@ -9,9 +9,6 @@ My To-Do List app allows a user to log the tasks they need to complete. The user
 - **express-urlencoded**: parses incoming requests within URL-encoded payloads
 
 As mentioned above, I chose the Bootstrap CSS template as it seemed to be one of the most popular and was very simple in design. Overall, I would say it was a good introduction to CSS templates. The only modifications I made were very slight by adding two margins (title and items and then buttons).Clearly, the biggest challenge I found in developing this application was user authentication as I was unable to implement it.
-
-## Technical Achievements
-- **Tech Achievement 1**: I hosted my site on Heroku as I do not enjoy the Glitch editor overall. I found Heroku easier to upload my code from VS Code than it is to Glitch.
 
 ### Design/Evaluation Achievements
 - **Design Achievement 1**: I made my site accessible by using the resources and hints from the W3C. The 12 I focused on were:
